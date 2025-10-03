@@ -27,7 +27,7 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
 | **Frontend** | `React` • `HTML5` • `CSS3` |
 | **Backend** | `Node.js` • `Express.js` |
 | **Bases de Datos** | `Mongoose` (MongoDB) |
-| **Control de Versiones** | **`Git`** (Indispensable para el trabajo en equipo) |
+| **Control de Versiones** | **`Git`** |
 | **Estilos** | `Tailwind CSS` |
 
 ### 🌱 En Proceso de Aprendizaje (Arquitectura y Backend Enterprise)
