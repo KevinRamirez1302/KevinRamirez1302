@@ -45,16 +45,14 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
 <p align="center">
   <img src="https://res.cloudinary.com/dbwyowhjk/image/upload/v1759688615/Captura_de_pantalla_2025-10-05_172512_epl2ri.png" alt="Captura de pantalla del proyecto SellAll" style="width: 100%; max-width: 600px; height: auto;">
 </p>
-<details>
   <strong>1. 🛒 SellAll (Frontend)</strong>
-  
   <br>
 
   <p>
     Proyecto creado con el <strong>MERN stack</strong> (MongoDB, Express, React, Node.js).
     Para los estilos se utilizó <strong>Tailwind CSS</strong> junto con <strong>Chakra UI</strong>, lo que permitió un diseño moderno y responsivo.
   </p>
-</details>
+</
 
 <details>
   <summary><strong>2. 🔑 SellAll API (Backend/CRUD)</strong></summary>
