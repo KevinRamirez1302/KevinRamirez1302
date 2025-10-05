@@ -43,7 +43,6 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
 ## 💡 Proyectos Destacados
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dbwyowhjk/image/upload/v1759688615/Captura_de_pantalla_2025-10-05_172512_epl2ri.png" alt="Captura de pantalla del proyecto SellAll" style="width: 100%; max-width: 600px; height: auto;">
 </p>
   <strong>1. 🛒 SellAll (Frontend)</strong>
   <br>
@@ -52,6 +51,9 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
     Proyecto creado con el <strong>MERN stack</strong> (MongoDB, Express, React, Node.js).
     Para los estilos se utilizó <strong>Tailwind CSS</strong> junto con <strong>Chakra UI</strong>, lo que permitió un diseño moderno y responsivo.
   </p>
+
+  <img src="https://res.cloudinary.com/dbwyowhjk/image/upload/v1759688615/Captura_de_pantalla_2025-10-05_172512_epl2ri.png" alt="Captura de pantalla del proyecto SellAll" style="width: 100%; max-width: 600px; height: auto;">
+  
 </
 
 <details>
