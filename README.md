@@ -43,36 +43,46 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
 ## 💡 Proyectos Destacados
 
 <p align="center">
+  <img src="https://res.cloudinary.com/dbwyowhjk/image/upload/v1759688615/Captura_de_pantalla_2025-10-05_172512_epl2ri.png" alt="Captura de pantalla del proyecto SellAll" width="600" />
 </p>
-  <strong>1. 🛒 SellAll (Frontend)</strong>
-  <br>
 
-  <p>
-    Proyecto creado con el <strong>MERN stack</strong> (MongoDB, Express, React, Node.js).
-    Para los estilos se utilizó <strong>Tailwind CSS</strong> junto con <strong>Chakra UI</strong>, lo que permitió un diseño moderno y responsivo.
-  </p>
-  <a href="https://front-ent-sell-all.vercel.app/" target="_blank >https://front-ent-sell-all.vercel.app/</a>
+# 🛒 Proyecto E-Commerce: SellAll (MERN Stack)
 
-  <img src="https://res.cloudinary.com/dbwyowhjk/image/upload/v1759688615/Captura_de_pantalla_2025-10-05_172512_epl2ri.png" alt="Captura de pantalla del proyecto SellAll" style="width: 100%; max-width: 600px; height: auto;">
-  
+Este es un proyecto completo de **E-commerce** desarrollado con el **MERN Stack** (MongoDB, Express, React, Node.js), dividido en dos componentes principales: el **Frontend** (interfaz de usuario) y la **API/Backend** (lógica del servidor y gestión de datos).
 
+---
 
+## 💻 1. SellAll (Frontend)
 
-<strong>2. 🔑 SellAll API (Backend/CRUD)</strong>
-  
-  <br>
+El *frontend* de SellAll ofrece una **interfaz de usuario moderna y responsiva** para la experiencia de compra.
 
-  <p>
-    Desarrollado con <strong>Node.js</strong> y <strong>Express</strong>.
-    Utiliza <strong>MongoDB</strong> con <strong>Mongoose</strong> como base de datos.
-    Implementación de seguridad con <strong>JWT</strong> (JSON Web Tokens) para la verificación de usuarios mediante *cookies* y se utilizó <strong>bcrypt</strong> para encriptar las contraseñas, asegurando la información sensible.
-  </p>
+### 🚀 Tecnologías Clave
 
-  <a href=" https://server-mern-sell-all.vercel.app/" target="_blank">https://server-mern-sell-all.vercel.app/</a>
+* **Stack:** ⚛️ **React**
+* **Estilado:** 🎨 **Tailwind CSS** y 🧱 **Chakra UI** (para componentes de interfaz)
+* **Despliegue:** 🌐 Vercel
 
+### 🔗 Enlace al Proyecto Desplegado
 
-<br>
+**[➡️ Visitar SellAll Frontend](https://front-ent-sell-all.vercel.app/)**
 
+---
+
+## 🔒 2. SellAll API (Backend/CRUD)
+
+La **API** de SellAll es el núcleo del sistema, encargada de la lógica del negocio, las operaciones **CRUD** (Crear, Leer, Actualizar, Borrar) y la seguridad de los datos.
+
+### 🛠️ Tecnologías Clave
+
+* **Stack:** 🟢 **Node.js** y 🚀 **Express**
+* **Base de Datos:** 🍃 **MongoDB** con  ODM **Mongoose**
+* **Seguridad:**
+    * **Autenticación:** 🔑 Implementación de **JWT** (JSON Web Tokens) para verificación de usuarios a través de *cookies*.
+    * **Cifrado de Contraseñas:** 🔐 Uso de **bcrypt** para asegurar la información sensible.
+
+### 🔗 Enlace al Servidor Desplegado
+
+**[➡️ Visitar SellAll API](https://server-mern-sell-all.vercel.app/)**
 ---
 
 ## 🤝 Contacto (¡Hablemos de trabajo!)
