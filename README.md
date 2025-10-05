@@ -75,7 +75,7 @@ La **API** de SellAll es el núcleo del sistema, encargada de la lógica del neg
 ### 🛠️ Tecnologías Clave
 
 * **Stack:** 🟢 **Node.js** y 🚀 **Express**
-* **Base de Datos:** 🍃 **MongoDB** con  ODM **Mongoose**
+* **Base de Datos:** 🍃 **MongoDB** **Mongoose**
 * **Seguridad:**
     * **Autenticación:** 🔑 Implementación de **JWT** (JSON Web Tokens) para verificación de usuarios a través de *cookies*.
     * **Cifrado de Contraseñas:** 🔐 Uso de **bcrypt** para asegurar la información sensible.
