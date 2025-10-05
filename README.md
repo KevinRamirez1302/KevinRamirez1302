@@ -43,19 +43,10 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
 ## 💡 Proyectos Destacados
 
   <img src="https://drive.google.com/file/d/1xIn6yBpKv9UcqZJHnuAg758StigWZeo0/view?usp=sharing" />=
-1.  Sell all: Proyecto creado con el M.E.R.N stack, se utilizo tailwind para los estilos junto con chakra UI 
-2.  **[Nombre del Proyecto 2]**: *< Describe el problema que soluciona. >*
+1.  Sell all: Proyecto creado con el M.E.R.N stack, se utilizo tailwind para los estilos junto con chakra UI.
+2.  Sell all api CRUD: Se utilizo nodejs con express y mongodb con mongoose como base de datos, se utilizo jwt para verificacion mediante cookies, tabmbien se encripto la contrasena.
 3.  **[Nombre del Proyecto 3]**: *< Destaca una funcionalidad compleja que implementaste. >*
 
----
-
-## 📈 Mi Actividad en GitHub
-
-**¡Mira mi actividad reciente!**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<<TU_USUARIO_GITHUB>>&show_icons=true&theme=nord&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<<TU_USUARIO_GITHUB>>&theme=nord&hide_border=true&locale=es" alt="Racha de Contribuciones" />
-</div>
 
 ---
 
