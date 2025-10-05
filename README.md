@@ -68,7 +68,7 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
     Implementación de seguridad con <strong>JWT</strong> (JSON Web Tokens) para la verificación de usuarios mediante *cookies* y se utilizó <strong>bcrypt</strong> para encriptar las contraseñas, asegurando la información sensible.
   </p>
 
-  <a href = " https://server-mern-sell-all.vercel.app/">https://server-mern-sell-all.vercel.app/</a>
+  <a href=" https://server-mern-sell-all.vercel.app/" target="_blank">https://server-mern-sell-all.vercel.app/</a>
 
 
 <br>
