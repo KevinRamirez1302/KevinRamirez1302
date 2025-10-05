@@ -46,7 +46,7 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
   <img src="https://res.cloudinary.com/dbwyowhjk/image/upload/v1759688615/Captura_de_pantalla_2025-10-05_172512_epl2ri.png" alt="Captura de pantalla del proyecto SellAll" style="width: 100%; max-width: 600px; height: auto;">
 </p>
 <details>
-  <summary><strong>1. 🛒 SellAll (Frontend)</strong></summary>
+  <strong>1. 🛒 SellAll (Frontend)</strong>
   
   <br>
 
