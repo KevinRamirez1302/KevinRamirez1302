@@ -42,7 +42,7 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
 
 ## 💡 Proyectos Destacados
 
-  <img src="https://drive.google.com/file/d/1xIn6yBpKv9UcqZJHnuAg758StigWZeo0/view?usp=drive_link" />=
+  <img src="https://drive.google.com/file/d/1xIn6yBpKv9UcqZJHnuAg758StigWZeo0/view?usp=sharing" />=
 1.  Sell all: Proyecto creado con el M.E.R.N stack, se utilizo tailwind para los estilos junto con chakra UI 
 2.  **[Nombre del Proyecto 2]**: *< Describe el problema que soluciona. >*
 3.  **[Nombre del Proyecto 3]**: *< Destaca una funcionalidad compleja que implementaste. >*
