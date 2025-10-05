@@ -90,7 +90,7 @@ La **API** de SellAll es el núcleo del sistema, encargada de la lógica del neg
 Estoy buscando activamente un rol donde pueda aplicar y expandir mis habilidades, especialmente en equipos que utilicen **arquitecturas modernas**. **¡Si tienes una oportunidad, hablemos!**
 
 <div align="center">
-  <a href="www.linkedin.com/in/kevinramirezdev" target="_blank">
+  <a href="https://www.linkedin.com/in/kevinramirezdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kevin.alexanderra1302@gmail.com" target="_blank">
