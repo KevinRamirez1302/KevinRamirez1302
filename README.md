@@ -42,11 +42,36 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
 
 ## 💡 Proyectos Destacados
 
-  <img src="https://res.cloudinary.com/dbwyowhjk/image/upload/v1759688615/Captura_de_pantalla_2025-10-05_172512_epl2ri.png"/>
-1.  Sell all: Proyecto creado con el M.E.R.N stack, se utilizo tailwind para los estilos junto con chakra UI.
-2.  Sell all api CRUD: Se utilizo nodejs con express y mongodb con mongoose como base de datos, se utilizo jwt para verificacion mediante cookies, tabmbien se encripto la contrasena.
-3.  **[Nombre del Proyecto 3]**: *< Destaca una funcionalidad compleja que implementaste. >*
+<p align="center">
+  <img src="https://res.cloudinary.com/dbwyowhjk/image/upload/v1759688615/Captura_de_pantalla_2025-10-05_172512_epl2ri.png" alt="Captura de pantalla del proyecto SellAll" style="width: 100%; max-width: 600px; height: auto;">
+</p>
 
+## 🚀 Proyectos Destacados
+
+<details>
+  <summary><strong>1. 🛒 SellAll (Frontend)</strong></summary>
+  
+  <br>
+
+  <p>
+    Proyecto creado con el <strong>MERN stack</strong> (MongoDB, Express, React, Node.js).
+    Para los estilos se utilizó <strong>Tailwind CSS</strong> junto con <strong>Chakra UI</strong>, lo que permitió un diseño moderno y responsivo.
+  </p>
+</details>
+
+<details>
+  <summary><strong>2. 🔑 SellAll API (Backend/CRUD)</strong></summary>
+  
+  <br>
+
+  <p>
+    Desarrollado con <strong>Node.js</strong> y <strong>Express</strong>.
+    Utiliza <strong>MongoDB</strong> con <strong>Mongoose</strong> como base de datos.
+    Implementación de seguridad con <strong>JWT</strong> (JSON Web Tokens) para la verificación de usuarios mediante *cookies* y se utilizó <strong>bcrypt</strong> para encriptar las contraseñas, asegurando la información sensible.
+  </p>
+</details>
+
+<br>
 
 ---
 
