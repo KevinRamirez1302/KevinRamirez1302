@@ -42,9 +42,8 @@ Mi experiencia se concentra en el siguiente conjunto de herramientas y lenguajes
 
 ## 💡 Proyectos Destacados
 
-Aquí puedes enlazar a tus 3 mejores repositorios o proyectos que demuestren tu habilidad (ej. tu portafolio, una API que creaste, o un clon de una web famosa):
-
-1.  **[Nombre del Proyecto 1]**: *< Descripción breve del proyecto y qué tecnologías usaste. >*
+  <img src="https://github-readme-stats.vercel.app/api?username=<<TU_USUARIO_GITHUB>>&show_icons=true&theme=nord&hide_border=true&locale=es" alt="Estadísticas de GitHub" />=
+1.  Sell all: *< Descripción breve del proyecto y qué tecnologías usaste. >*
 2.  **[Nombre del Proyecto 2]**: *< Describe el problema que soluciona. >*
 3.  **[Nombre del Proyecto 3]**: *< Destaca una funcionalidad compleja que implementaste. >*
 
@@ -65,14 +64,13 @@ Aquí puedes enlazar a tus 3 mejores repositorios o proyectos que demuestren tu 
 Estoy buscando activamente un rol donde pueda aplicar y expandir mis habilidades, especialmente en equipos que utilicen **arquitecturas modernas**. **¡Si tienes una oportunidad, hablemos!**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/< TU LINKEDIN >" target="_blank">
+  <a href="www.linkedin.com/in/kevinramirezdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:< TU EMAIL >" target="_blank">
+  <a href="mailto:kevin.alexanderra1302@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/< TU TWITTER >" target="_blank">
-  </a>
+ 
 </div>
 
 <br>
