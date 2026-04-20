@@ -42,13 +42,18 @@ Soy un programador enfocado en el ecosistema **JavaScript/TypeScript**, especial
 ## 💡 Proyectos Destacados
 
 ### 🃏 Mazo App - Enterprise Architecture
-> **Proyecto Destacado - Promoción Ciclo DAM** > Una aplicación robusta diseñada para la gestión de mazos de cartas, centrada en la arquitectura limpia y la contenerización. Este proyecto representa los estándares de calidad y desarrollo técnico promovidos en el ciclo de **Desarrollo de Aplicaciones Multiplataforma**.
+> **Proyecto Destacado - Promoción Ciclo DAM**
+> Una aplicación robusta diseñada para la gestión de mazos de cartas, centrada en la arquitectura limpia y la contenerización. Este proyecto representa los estándares de calidad y desarrollo técnico promovidos en el ciclo de **Desarrollo de Aplicaciones Multiplataforma**.
 
 * **Backend:** Desarrollado con **NestJS** y TypeScript (Inyección de dependencias, Módulos).
 * **Seguridad:** Implementación de hashing con **Bcrypt** y comunicación vía **Nodemailer**.
 * **Infra:** Base de Datos **PostgreSQL** orquestada con **Docker**.
 
 <div align="center">
+  <br/>
+  <a href="https://villamazo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Probar_Web_En_Vivo-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="Demo Mazo"/>
+  </a>
   <br/>
   <a href="https://github.com/KevinRamirez1302/Front-mazo" target="_blank">
     <img src="https://img.shields.io/badge/Código_Frontend-blue?style=for-the-badge&logo=react&logoColor=white" alt="Repo Front"/>
@@ -58,7 +63,6 @@ Soy un programador enfocado en el ecosistema **JavaScript/TypeScript**, especial
   </a>
   <br/><br/>
 </div>
-
 ---
 
 ### 🛒 SellAll - E-Commerce (MERN Stack)
