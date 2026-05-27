@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Animado Moderno -->
-  <img src="https://images.unsplash.com/photo-1687603917313-ccae1a289a9d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmVhY3Rqc3xlbnwwfHwwfHx8MA%3D%3D" width="100%" />
+  <img src="https://images.unsplash.com/photo-1687603917313-ccae1a289a9d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmVhY3Rqc3xlbnwwfHwwfHx8MA%3D%3D" width="400px" />
 
   <br />
 
