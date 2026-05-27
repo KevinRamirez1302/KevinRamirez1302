@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Animado Moderno -->
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=%C2%A1Hola,%20soy%20Kevin!%20%F0%9F%91%8B&fontSize=40&animation=fadeIn&fontAlignY=45" width="100%" />
+  <img src="https://images.unsplash.com/photo-1687603917313-ccae1a289a9d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cmVhY3Rqc3xlbnwwfHwwfHx8MA%3D%3D" width="100%" />
 
   <br />
 
@@ -17,7 +17,7 @@
 Soy un programador enfocado en el ecosistema **JavaScript/TypeScript**, especializado en crear soluciones escalables y seguras. Mi perfil combina la agilidad de los entornos web modernos con la robustez de las arquitecturas empresariales.
 
 - 🎯 **En búsqueda activa:** Listo para aportar valor y crecer en entornos Frontend, Backend o Full-Stack.
-- 🎓 **Graduado en DAM:** Competencias avanzadas clave adquiridas en el ciclo de **Desarrollo de Aplicaciones Multiplataforma**.
+- 🎓 **Cursando DAM:** Competencias avanzadas clave adquiridas en el ciclo de **Desarrollo de Aplicaciones Multiplataforma**.
 - 🐳 **DevOps Mindset:** Implemento **Docker** en mis flujos de trabajo para asegurar entornos de desarrollo consistentes y limpios.
 
 ---
